@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Matheus 🤚🏻💻
 ---
-![Logo da Minha Empresa](https://raw.githubusercontent.com/Matheus-1400/assets/main/Matheus%20Pereira.png?token=GHSAT0AAAAAACRPXVUX5S36V3TVA4H67TCQZRLCCIA)
+![Meu Logo](https://raw.githubusercontent.com/Matheus-1400/assets/main/Matheus%20Pereira.png?token=GHSAT0AAAAAACRPXVUX5S36V3TVA4H67TCQZRLCCIA)
 <!--
 **Matheus-1400/Matheus-1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
