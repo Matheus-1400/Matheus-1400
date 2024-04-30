@@ -1,6 +1,9 @@
 ### Hi, I'm Matheus 🤚🏻💻
 ---
 ![Matheus Pereira (4)](https://github.com/Matheus-1400/Matheus-1400/assets/107654053/a224272a-1d7c-498c-9b23-3df1bee1127a)
+---
+[!instagram(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_1400p/)
+
 <!--
 **Matheus-1400/Matheus-1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
