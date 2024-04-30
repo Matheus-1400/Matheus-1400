@@ -27,8 +27,6 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511958597616)
 ---
 ![snake gif](https://github.com/Matheus-1400/Matheus-1400/blob/output/github-contribution-grid-snake.gif)
-
-![Matheus-1400 GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-1400&show_icons=true&theme=tokyonight)
 ---
 ## My learning and progaming tecnologies
 <div style="display: inline_block">
@@ -38,17 +36,12 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-<!--
-**Matheus-1400/Matheus-1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+![Matheus-1400 GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-1400&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Matheus 🤚🏻💻</h1></summary>
+</div>
