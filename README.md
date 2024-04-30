@@ -10,15 +10,16 @@
 ---
 
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.<br>
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  Hi 👋, I'm Matheus! A passionate FrontEnd student from Brazil.<br>
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Developer fullstack.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 💬 I am 19 years old, currently living in Brazil. I have an advanced English and in the moment I'm a teacher of the language. I am studing Python, Javascript, React, HTML and CSS. I'm also a beguiner designer, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 
