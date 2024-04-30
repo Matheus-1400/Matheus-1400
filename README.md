@@ -6,7 +6,7 @@
 </div>
     
 ---
-![Matheus Pereira (6)](https://github.com/Matheus-1400/Matheus-1400/assets/107654053/a224272a-1d7c-498c-9b23-3df1bee1127a)
+![Matheus Pereira (6)](https://github.com/Matheus-1400/Matheus-1400/assets/107654053/55937223-5c82-475b-aa39-5780771f93c8)
 ---
 
 <p>
