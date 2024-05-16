@@ -27,8 +27,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_1400p/) 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511958597616)
 ---
-![snake gif](https://github.com/Matheus-1400/Matheus-1400/blob/output/github-contribution-grid-snake.gif)
----
 ## My learning and progaming tecnologies
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
