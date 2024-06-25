@@ -34,9 +34,3 @@
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
----
-![Matheus-1400 GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-1400&show_icons=true&theme=tokyonight)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
